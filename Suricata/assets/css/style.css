@@ -1,0 +1,20 @@
+.logonav {top: 12px; left: 40px; width: 132px; height: 53px;}
+.inicionav {top: 27px; left: 919px; width: 40px; height: 22px;}
+.productosnav{top: 27px; left: 989px; width: 76px; height: 22px;}
+.contactonav{top: 27px; left: 1095px; width: 67px; height: 22px;}
+.ptx{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 139px;
+    height: 82px;
+    font: normal normal bold 60px/82px Open Sans;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+  }
+.logo2{
+    top: 12px; left: 40px; width: 132px; height: 53px;
+    opacity: 1;
+    justify-content: center;
+}
